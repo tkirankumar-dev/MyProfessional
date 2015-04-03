@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace _0_CheckIEnumerableFirstorDefault
+namespace CheckIEnumerableFirstorDefault
 {
     class Program
     {

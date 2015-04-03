@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0_CheckIEnumerableFirstorDefault", "0_CheckIEnumerableFirstorDefault\0_CheckIEnumerableFirstorDefault.csproj", "{E39B7FFE-AB89-495E-AC87-10A6826D7F33}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exam70-483", "Exam70-483", "{19AC385A-A378-484D-8FC2-6DD106E3A4B7}"
+	ProjectSection(SolutionItems) = preProject
+		GlobalAssemblyInfo.cs = GlobalAssemblyInfo.cs
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0_Thread", "0_Thread\0_Thread.csproj", "{888A4360-B0A8-4C52-B633-2DC59A8BF24A}"
 EndProject

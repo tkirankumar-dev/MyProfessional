@@ -1,0 +1,6 @@
+D:\TDD\TDDExercises\ExamRef70_483\3_ThreadStopping\bin\Debug\3_ThreadStopping.exe.config
+D:\TDD\TDDExercises\ExamRef70_483\3_ThreadStopping\bin\Debug\3_ThreadStopping.exe
+D:\TDD\TDDExercises\ExamRef70_483\3_ThreadStopping\bin\Debug\3_ThreadStopping.pdb
+D:\TDD\TDDExercises\ExamRef70_483\3_ThreadStopping\obj\Debug\3_ThreadStopping.csprojResolveAssemblyReference.cache
+D:\TDD\TDDExercises\ExamRef70_483\3_ThreadStopping\obj\Debug\3_ThreadStopping.exe
+D:\TDD\TDDExercises\ExamRef70_483\3_ThreadStopping\obj\Debug\3_ThreadStopping.pdb

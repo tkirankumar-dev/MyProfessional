@@ -1,0 +1,5 @@
+D:\TDD\TDDExercises\ExamRef70_483\7_StartingNewTask\bin\Debug\7_StartingNewTask.exe.config
+D:\TDD\TDDExercises\ExamRef70_483\7_StartingNewTask\bin\Debug\7_StartingNewTask.exe
+D:\TDD\TDDExercises\ExamRef70_483\7_StartingNewTask\bin\Debug\7_StartingNewTask.pdb
+D:\TDD\TDDExercises\ExamRef70_483\7_StartingNewTask\obj\Debug\7_StartingNewTask.exe
+D:\TDD\TDDExercises\ExamRef70_483\7_StartingNewTask\obj\Debug\7_StartingNewTask.pdb

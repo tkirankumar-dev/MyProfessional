@@ -1,0 +1,5 @@
+D:\TDD\TDDExercises\ExamRef70_483\4_ThreadStaticAttribute\bin\Debug\4_ThreadStaticAttribute.exe.config
+D:\TDD\TDDExercises\ExamRef70_483\4_ThreadStaticAttribute\bin\Debug\4_ThreadStaticAttribute.exe
+D:\TDD\TDDExercises\ExamRef70_483\4_ThreadStaticAttribute\bin\Debug\4_ThreadStaticAttribute.pdb
+D:\TDD\TDDExercises\ExamRef70_483\4_ThreadStaticAttribute\obj\Debug\4_ThreadStaticAttribute.exe
+D:\TDD\TDDExercises\ExamRef70_483\4_ThreadStaticAttribute\obj\Debug\4_ThreadStaticAttribute.pdb

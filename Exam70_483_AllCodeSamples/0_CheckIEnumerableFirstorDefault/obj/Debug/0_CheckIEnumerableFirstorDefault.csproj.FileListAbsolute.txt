@@ -1,0 +1,4 @@
+D:\WD\Exam70-483\Exam70_483_AllCodeSamples\0_CheckIEnumerableFirstorDefault\bin\Debug\0_CheckIEnumerableFirstorDefault.exe
+D:\WD\Exam70-483\Exam70_483_AllCodeSamples\0_CheckIEnumerableFirstorDefault\bin\Debug\0_CheckIEnumerableFirstorDefault.pdb
+D:\WD\Exam70-483\Exam70_483_AllCodeSamples\0_CheckIEnumerableFirstorDefault\obj\Debug\0_CheckIEnumerableFirstorDefault.exe
+D:\WD\Exam70-483\Exam70_483_AllCodeSamples\0_CheckIEnumerableFirstorDefault\obj\Debug\0_CheckIEnumerableFirstorDefault.pdb

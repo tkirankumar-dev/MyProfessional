@@ -1,0 +1,6 @@
+D:\TDD\TDDExercises\ExamRef70_483\5_ThreadLocalT\bin\Debug\5_ThreadLocalT.exe.config
+D:\TDD\TDDExercises\ExamRef70_483\5_ThreadLocalT\bin\Debug\5_ThreadLocalT.exe
+D:\TDD\TDDExercises\ExamRef70_483\5_ThreadLocalT\bin\Debug\5_ThreadLocalT.pdb
+D:\TDD\TDDExercises\ExamRef70_483\5_ThreadLocalT\obj\Debug\5_ThreadLocalT.csprojResolveAssemblyReference.cache
+D:\TDD\TDDExercises\ExamRef70_483\5_ThreadLocalT\obj\Debug\5_ThreadLocalT.exe
+D:\TDD\TDDExercises\ExamRef70_483\5_ThreadLocalT\obj\Debug\5_ThreadLocalT.pdb

@@ -1,0 +1,6 @@
+D:\TDD\TDDExercises\ExamRef70_483\2_ParameterizedThreadStart\bin\Debug\2_ParameterizedThreadStart.exe.config
+D:\TDD\TDDExercises\ExamRef70_483\2_ParameterizedThreadStart\bin\Debug\2_ParameterizedThreadStart.exe
+D:\TDD\TDDExercises\ExamRef70_483\2_ParameterizedThreadStart\bin\Debug\2_ParameterizedThreadStart.pdb
+D:\TDD\TDDExercises\ExamRef70_483\2_ParameterizedThreadStart\obj\Debug\2_ParameterizedThreadStart.exe
+D:\TDD\TDDExercises\ExamRef70_483\2_ParameterizedThreadStart\obj\Debug\2_ParameterizedThreadStart.pdb
+D:\TDD\TDDExercises\ExamRef70_483\2_ParameterizedThreadStart\obj\Debug\2_ParameterizedThreadStart.csprojResolveAssemblyReference.cache

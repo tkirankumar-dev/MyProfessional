@@ -1,0 +1,6 @@
+D:\TDD\TDDExercises\ExamRef70_483\6_QueuingWorkToThreadPool\bin\Debug\6_QueuingWorkToThreadPool.exe.config
+D:\TDD\TDDExercises\ExamRef70_483\6_QueuingWorkToThreadPool\bin\Debug\6_QueuingWorkToThreadPool.exe
+D:\TDD\TDDExercises\ExamRef70_483\6_QueuingWorkToThreadPool\bin\Debug\6_QueuingWorkToThreadPool.pdb
+D:\TDD\TDDExercises\ExamRef70_483\6_QueuingWorkToThreadPool\obj\Debug\6_QueuingWorkToThreadPool.csprojResolveAssemblyReference.cache
+D:\TDD\TDDExercises\ExamRef70_483\6_QueuingWorkToThreadPool\obj\Debug\6_QueuingWorkToThreadPool.exe
+D:\TDD\TDDExercises\ExamRef70_483\6_QueuingWorkToThreadPool\obj\Debug\6_QueuingWorkToThreadPool.pdb

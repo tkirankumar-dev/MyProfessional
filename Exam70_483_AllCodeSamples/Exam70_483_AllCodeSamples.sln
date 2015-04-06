@@ -12,6 +12,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exam70-483", "Exam70-483", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0_Thread", "0_Thread\0_Thread.csproj", "{888A4360-B0A8-4C52-B633-2DC59A8BF24A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "eBookAndNotes", "eBookAndNotes", "{76582364-7440-4A47-8C20-1485C8F657C1}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\kirankumart\Desktop\70-483.docx = C:\Users\kirankumart\Desktop\70-483.docx
+		C:\Users\kirankumart\Desktop\Exam Ref 70-483- Programming in C#.pdf = C:\Users\kirankumart\Desktop\Exam Ref 70-483- Programming in C#.pdf
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
